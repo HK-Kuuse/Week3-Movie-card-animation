@@ -55,7 +55,7 @@ html {
 }
 .movie-info-title {
     text-transform: capitalize;
-    margin-top 2rem;
+    margin-top: 2rem;
     transform: translateY(-150px);
     animation: slide-from-top 3s ease-in-out forwards;
 }
@@ -114,8 +114,8 @@ html {
     margin-bottom: 0.5rem;
 }
 .movie-info-people {
-margin-top: 1rem;
-list-style: none;
+    margin-top: 1rem;
+    list-style: none;
 }
 .movie-info-people li {
     display: inline-block;
